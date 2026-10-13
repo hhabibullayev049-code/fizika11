@@ -1,0 +1,6 @@
+{
+  "name": "FIZIKA 1–11",
+  "description": "Fizika 1–11 — Maktab o‘quvchilari uchun interaktiv fizika ta’limi, bosqichli darslar, virtual laboratoriya, formulalar kalkulyatori va imtihon tizimi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
